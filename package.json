@@ -1,0 +1,15 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "PREAM",
+  "license": "ISC",
+  "description": "First Assignment",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
